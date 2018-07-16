@@ -578,21 +578,6 @@ include 'modal-search.php';
 </section>
 
 
-<footer>
-    <img src="img/logofooter.png" width="150"/>
-    <h2>Published by</h2>
-    <p>Osoul Global Center in cooperation with the Australian Science and Research Academy.
-        <br>
-        Copyright © Osoul Global Center, All rights reserved.
-    </p>
-</footer>
-
-<script src="js/jquery.min.js"></script>
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="js/bootstrap.min.js"></script>
-<script src="js/aos.js"></script>
-<script src="js/wow.min.js"></script>
-<script src="js/demo.js"></script>
-
-</body>
-</html>
+<?php
+include 'footer.php';
+?>

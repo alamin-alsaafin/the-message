@@ -979,6 +979,5 @@ include 'modal-search.php';
    </div>
 
 <?php
-get_footer();
-
+include 'footer.php';
 ?>

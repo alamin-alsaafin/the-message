@@ -2,6 +2,9 @@
     <footer>
         <img src="img/logofooter.png" width="150" class="footer-logo"/>
         <h2>Published by</h2>
+        <p>
+            Copyright © Osoul Global Center, All rights reserved.
+        </p>
     </footer>
 
     <script src="js/jquery.min.js"></script>
