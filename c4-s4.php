@@ -23,7 +23,7 @@
 
 <header>
     <div class="top"></div>
-    <a href="index.html" class="logo">
+    <a href="index.php" class="logo">
         <span>THREE</span>
         <span>MESSAGES</span>
         <span>FROM GOD TO YOU</span>

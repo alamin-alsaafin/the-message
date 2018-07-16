@@ -12,7 +12,7 @@ include 'modal-search.php';
     <section class="padding-y-50px header-sub">
         <!-- meun for sub page -->
         <div class="top"></div>
-        <a href="index.html" class="logo">
+        <a href="index.php" class="logo">
             <span>THREE</span>
             <span>MESSAGES</span>
             <span>FROM GOD TO YOU</span>
