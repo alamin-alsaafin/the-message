@@ -12,7 +12,9 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/aos.js"></script>
     <script src="js/demo.js"></script>
+    <script type="text/javascript">
+        $('.dropdown-toggle').dropdown();
+    </script>
     
- 
 </body>
 </html>

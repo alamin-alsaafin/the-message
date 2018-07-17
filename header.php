@@ -18,6 +18,57 @@
         <link href="css/other/style.css" rel="stylesheet">
 </head>
 <style type="text/css">
+.header-menu  .panel-body ul > li > a
+   {
+    font-size: 17px !important;
+    height: 20px !important;
+    line-height: 20px !important;
+   }
+   .header-menu a:hover
+   {
+    color: #000 !important;
+   }
+
+   /* Sweep To Right */
+.hvr-sweep-to-right {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  position: relative;
+  -webkit-transition-property: color;
+  transition-property: color;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+}
+.hvr-sweep-to-right:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #fff;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: 0 50%;
+  transform-origin: 0 50%;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.hvr-sweep-to-right:hover, .hvr-sweep-to-right:focus, .hvr-sweep-to-right:active {
+  color: white;
+}
+.hvr-sweep-to-right:hover:before, .hvr-sweep-to-right:focus:before, .hvr-sweep-to-right:active:before {
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
 .Self-Pride 
 {
     background-color: #fff !important;
@@ -106,7 +157,7 @@ footer h2
     }
   }
   /*New Menu css code*/
-  .header-menu
+  /*.header-menu
   {
     background: rgba(0,0,0,0.97) !important;
   }
@@ -118,142 +169,7 @@ footer h2
   {
       text-align: left !important;
       /*text-decoration: underline !important;*/
+  }
 
-  }
-  .header-menu > ul > li > a
-  {
-      font-size: 16px;
-      /*font-weight: bold;*/
-    /* -webkit-transform: perspective(1px) translateZ(0);
-      transform: perspective(1px) translateZ(0);
-      box-shadow: 0 0 1px transparent;
-      position: relative;
-      overflow: hidden;*/
-      
-  }
-  /*.header-menu > ul > li > a:before {
-  content: "";
-  position: absolute;
-  z-index: -1;
-  left: 50%;
-  right: 50%;
-  bottom: 0;
-  background: #fff;
-  height: 1px;
-  -webkit-transition-property: left, right;
-  transition-property: left, right;
-  -webkit-transition-duration: 0.3s;
-  transition-duration: 0.3s;
-  -webkit-transition-timing-function: ease-out;
-  transition-timing-function: ease-out;
-}*/
-/*.header-menu > ul > li >a:hover:before, .header-menu > ul > li> a:focus:before, .header-menu > ul > li >a:active:before {
-  left: 0;
-  right: 0;
-}*/
-
-  .header-menu  a:hover,
-  .header-menu  a:focus
-  {
-    color: #fff;
-  }
-  .header-menu ul li a i
-  {
-    margin-right: 10px;
-  }
-  .header-menu > ul > li > ul 
-  {
-        text-align: left;
-        margin-left: 40px;
-  }
-  .header-menu > ul > li > ul > li
-  {
-    margin-bottom: -13px;
-  }
-  .header-menu > ul > li > ul > li > a
-  {
-    -webkit-transform: perspective(1px) translateZ(0);
-    transform: perspective(1px) translateZ(0);
-    box-shadow: 0 0 1px transparent;
-    position: relative;
-    -webkit-transition-property: color;
-    transition-property: color;
-    -webkit-transition-duration: 0.3s;
-    transition-duration: 0.3s;
-    padding: 5px 2px ;
-  }
-  .header-menu > ul > li > ul > li > a:hover
-  {
-    color: #000 !important;
-  }
-  .header-menu > ul > li > ul > li >a:before {
-  content: "";
-  position: absolute;
-  z-index: -1;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: #fff;
-  -webkit-transform: scaleX(0);
-  transform: scaleX(0);
-  -webkit-transform-origin: 0 20%;
-  transform-origin: 0 20%;
-  -webkit-transition-property: transform;
-  transition-property: transform;
-  -webkit-transition-duration: 0.3s;
-  transition-duration: 0.3s;
-  -webkit-transition-timing-function: ease-out;
-  transition-timing-function: ease-out;
-}
-.header-menu > ul > li > ul > li>a:hover, .header-menu > ul > li > ul > li>a:focus,
-.header-menu > ul > li > ul > li>a:active {
-  color: white;
-}
-.header-menu > ul > li > ul > li>a:hover:before, .header-menu > ul > li > ul > li>a:focus:before, 
-.header-menu > ul > li > ul > li>a:active:before {
-  -webkit-transform: scaleX(1);
-  transform: scaleX(1);
-}
-
-  /*.header-menu > ul > li > ul > li::before
-  {
-    content: "-";
-    color: #fff;
-    font-size: 15px;
-    margin-right: 5px;
-  }*/
-  .header-menu > ul > li > ul > li > a
-  {
-    font-size: 16px;
-  }
-  .header-menu > ul > li > ul > li > ul
-  {
-    position: absolute;
-    margin-left: 62%;
-    text-align: left;
-    font-size: 14px;
-    top: 28.5%;
-    display: none;
-  }
-  .header-menu > ul > li > ul > li:hover > ul
-  {
-    display: block;
-  }
-  .header-menu > ul > li > ul > li > ul > li > a
-  {
-    font-size: 14px;
-  }
-  .header-menu .line
-  {
-    background: #fff;
-    color: #fff;
-    width: 25%;
-    border-bottom: 1px #fff solid;
-    transform: rotate(90deg);
-    bottom: 48%;
-    position: absolute;
-    right: 36%;
-  }
   /******************/
 </style>

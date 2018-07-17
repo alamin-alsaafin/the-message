@@ -28,7 +28,7 @@ include 'modal-search.php';
                  <?php
                      include 'menu.php';
                     ?>
-                <a href="#" id="nav-trigger" nav-reveal-button></a> 
+                
                     
             </div>
         </div>
