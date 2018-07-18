@@ -12,8 +12,9 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/aos.js"></script>
     <script src="js/demo.js"></script>
-    <script src="js/masonry.pkgd.min.js"></script>
-    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/2.1.3/parallax.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/1.17.0/TweenMax.min.js"></script>
+    <script src="js/wow.min.js"></script>
     <script type="text/javascript">
         $('.dropdown-toggle').dropdown();
     </script>
@@ -45,6 +46,26 @@
        );
        wow.init();
    </script>
-    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/2.1.3/parallax.min.js"></script>
+
+<script>
+    new WOW().init();
+    $(document).ready(function() {
+            // Check window size
+            if($(window).width() > 769) {
+                const parent = document.getElementById('header-key');
+                const parallax = new Parallax(parent, {
+                    invertX: true,
+                    invertY: true,
+                    limitX: 15,
+                    limitY: 15
+                });
+            }
+    });
+
+    $(document).ready(function() {
+
+    });
+</script>
 </body>
 </html>

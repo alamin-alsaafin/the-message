@@ -8,6 +8,7 @@
 
         <title></title>
         <link href="css/nav.css" rel="stylesheet" />
+        <link href="css/style111.css" rel="stylesheet">
         <link rel="shortcut icon" href="img/fav-icon.ico" type="image/x-icon" />
         <link href="css/other/bootstrap.min.css" rel="stylesheet">
       
@@ -95,8 +96,8 @@ footer h2
 .search-input
 {
       background: #fff !important;
-      border: 2px #665300 solid !important;
-      border-bottom: 4px #665300 solid !important;
+      border: 2px #12123b solid !important;
+      border-bottom: 4px #12123b solid !important;
 }
 .search-input:focus
 {
@@ -193,5 +194,46 @@ footer h2
 {
   font-weight: normal !important;
   
+}
+.btn-info,.box-slide1 p,.btn-info, .box-slide1 p
+{ 
+    background: #12123B !important;
+}
+h1, h2, h3, h4, h5, h6
+{
+  color:  #12123B !important;
+}
+footer
+{
+  background-image: none !important;
+  background-color: #2c2c38  !important; 
+}
+.logo,#nav-trigger,.search-btnbtn
+,.conent-img-left:before,.img-box-top-sec-4::before
+
+{
+  background-color: #2c2c38  !important; 
+}
+.conent-img-right:before,.conent-img-right:before,
+{
+   background-color: #2c2c38  !important; 
+}
+.title-end
+{
+  color: #fff !important;
+}
+.title-section h1 span
+{
+  color: #fff !important;
+  text-shadow: 0 0 3px #12123B !important;
+}
+.div-img-4-background::before,.bac-y-right::before,.bac-y-left::before
+,.header-sub
+{
+      background: url(../../img/naqsh.png) #12123b !important;
+}
+.header-sub h1,footer h2
+{
+  color: #fff !important;
 }
 </style>

@@ -11,7 +11,7 @@ include 'modal-search.php';
             include 'button-search.php';
         ?>
         <div class="top"></div>
-            <a href="index.php" class="logo" style="display:none">
+            <a href="index.php" class="logo" style="display:block;    z-index: 99999999;">
                 <span>THREE</span>
                 <span>MESSAGES</span>
                 <span>FROM GOD TO YOU</span>
@@ -36,7 +36,7 @@ include 'modal-search.php';
    
 <section >
    
-<div class="slider">
+<!--<div class="slider">
     <div class="top"></div>
     <a href="index.html" class="logo">
         <span >THREE</span>
@@ -53,8 +53,40 @@ include 'modal-search.php';
             <div class="box-btn" data-aos="fade-right" data-aos-duration="1400"><a href="c1-sub1-logic.php" class="btn btn-info">MORE</a></div>
         </div>
     </div>
-
+</div>-->
+<div id="scroll-fix">
+    <div class="main-header position-relative">
+    </div>
+    </div>
+  </div>
 </div>
+<header id="header-key" class="header-key">
+    <div class="layer" style="z-index: 0 !important; height: 80vh !important; width: 100%" data-depth="1">
+        <div class="layout2 " style="width: 105% ">
+        </div>
+    </div>
+
+    <div class="layer" style="height: 120vh;z-index: 1; width: 100% " data-depth="2">
+        <div class="layout " style="width: 105% !important;">
+        </div>
+
+
+    </div>
+
+    <img src="img/twoheader.png" style="" alt="" class="img-two-header layer " data-depth="0.5">
+<div class="container contetn-center ">
+
+        <div class="conetent-slide">
+        <div class="box-slide1">
+            <div class="one-s" data-aos="fade-right" data-aos-duration="600">THREE</div>
+            <div class="two-s" data-aos="fade-right" data-aos-duration="800">MESSAGES</div>
+            <div class="three-s" data-aos="fade-right" data-aos-duration="1000"><span class="bak-fff">FROM</span> GOD <span  class="bak-fff">To</span> YOU</div>
+            <p data-aos="fade-right" data-aos-duration="1200">The Torah, the Bible and the Quran</p>
+            <div class="box-btn" data-aos="fade-right" data-aos-duration="1400"><a href="c1-sub1-logic.php" class="btn btn-info">MORE</a></div>
+        </div>
+    </div>
+    </div>
+</header>
 </section>
 <!-- end slider --> 
 

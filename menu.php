@@ -101,21 +101,21 @@
                 <div class="nav-inner">
                     <ul>
                         <li class="_nav-item " id="main_page">
-                            <a href="http://theprophetofislam.org/en" style="color:#002;"> <span class="menu__item-name" style="width: 127%;font-size: 19px;">The Creator and His Messengers</span></a>
+                            <a href="" style="color:#002;"> <span class="menu__item-name" style="width: 127%;font-size: 19px;">The Creator and His Messengers</span></a>
 
                         </li>
                         <li class="_nav-item animate showFromLeft delay01" id="testimonials" style="text-align: left !important;margin-left: 30px !important;">
-                            <a href="http://theprophetofislam.org/en/testimonials" style="color:#002 !important;"> <span class="menu__item-name">- Who Created Us?</span></a>
+                            <a href="" style="color:#002 !important;"> <span class="menu__item-name">- Who Created Us?</span></a>
 
 
                         </li>
                         <li class="_nav-item animate showFromLeft delay02 " id="HisCharacter" style="text-align: left !important;margin-left: 30px !important;">
-                            <a href="http://theprophetofislam.org/en/character" style="color:#002 !important;"> <span class="menu__item-name">- The Creatures of God</span></a>
+                            <a href="" style="color:#002 !important;"> <span class="menu__item-name">- The Creatures of God</span></a>
 
                         </li>
 
                         <li class="_nav-item animate showFromLeft delay03" id="biography" style="text-align: left !important;margin-left: 30px !important;">
-                            <a href="http://theprophetofislam.org/en/biography" style="color:#002 !important;"><span class="menu__item-name">- The Messengers of God</span></a>
+                            <a href="" style="color:#002 !important;"><span class="menu__item-name">- The Messengers of God</span></a>
 
                         </li>
                         <li class="_nav-item animate showFromLeft delay04" id="prophecy" style="text-align: left !important;margin-left: 30px !important;">
@@ -131,11 +131,11 @@
 
                         </li>
                         <li class="_nav-item animate showFromLeft delay07" id="HumanRights" style="text-align: left !important;margin-left: 30px !important;">
-                            <a href="http://theprophetofislam.org/en/freedom-and-equality-of-mankind" style="color:#002 !important;"><span class="menu__item-name">- Calls to the Human Being</span></a>
+                            <a href="" style="color:#002 !important;"><span class="menu__item-name">- Calls to the Human Being</span></a>
 
                         </li>
                         <li class="_nav-item animate showFromLeft delay08" id="environment" style="text-align: left !important;margin-left: 30px !important;">
-                            <a href="http://theprophetofislam.org/en/environment" style="color:#002 !important;"><span class="menu__item-name">- Calls to all People</span></a>
+                            <a href="" style="color:#002 !important;"><span class="menu__item-name">- Calls to all People</span></a>
 
                         </li>
                         <li class="_nav-item animate showFromLeft delay09" id="miracles" style="text-align: left !important;margin-left: 30px !important;">
@@ -143,25 +143,25 @@
 
                         </li>
                         <li class="_nav-item" id="HisSayings" style="text-align:left;">
-                            <a href="http://theprophetofislam.org/en/his-sayings" style="color:#002 !important;"><span class="menu__item-name" style="width: 127%;font-size: 19px;">You !</span></a>
+                            <a href="" style="color:#002 !important;"><span class="menu__item-name" style="width: 127%;font-size: 19px;">You !</span></a>
 
                         </li>
                         <li class="_nav-item animate showFromLeft delay011" id="epilogue" style="text-align: left !important;margin-left: 30px !important;">
-                            <a href="http://theprophetofislam.org/en/epilogue" style="color:#002 !important;"><span class="menu__item-name">- You and God</span></a>
+                            <a href="" style="color:#002 !important;"><span class="menu__item-name">- You and God</span></a>
 
                         </li>
                         <li class="_nav-item animate showFromLeft delay012" id="arts" style="text-align: left !important;margin-left: 30px !important;">
-                            <a href="http://theprophetofislam.org/en/islamic-arts" style="color:#002 !important;"><span class="menu__item-name">- Do You Talk To God ?</span></a>
+                            <a href="" style="color:#002 !important;"><span class="menu__item-name">- Do You Talk To God ?</span></a>
 
                         </li>
 
                         <li class="_nav-item animate showFromLeft delay012" id="latest_news" style="text-align: left !important;margin-left: 30px !important;">
-                            <a href="http://theprophetofislam.org/en/news" style="color:#002 !important;"><span class="menu__item-name">- Appendix</span></a>
+                            <a href="" style="color:#002 !important;"><span class="menu__item-name">- Appendix</span></a>
 
                         </li>
 
                         <li class="_nav-item animate showFromLeft delay012" id="audios_news" style="text-align: left !important;margin-left: 30px !important;">
-                            <a href="http://theprophetofislam.org/en/audios" style="color:#002 !important;"><span class="menu__item-name">- References</span></a>
+                            <a href="" style="color:#002 !important;"><span class="menu__item-name">- References</span></a>
 
                         </li>
                     </ul>
