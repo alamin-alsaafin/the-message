@@ -20,7 +20,15 @@
         <link href="css/other/style.css" rel="stylesheet">
 </head>
 <style type="text/css">
-
+.qura {
+    color: #000022;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.content
+{
+  background-color: #fff !important;
+}
 .header-menu  .panel-body ul > li > a
    {
     font-size: 17px !important;
