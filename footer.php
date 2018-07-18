@@ -12,9 +12,39 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/aos.js"></script>
     <script src="js/demo.js"></script>
+    <script src="js/masonry.pkgd.min.js"></script>
+    
     <script type="text/javascript">
         $('.dropdown-toggle').dropdown();
     </script>
+     <script>
+       $(document).ready(function () {
+
+
+
+           $('.nav-inner ._nav-item').each(function () {
+               var submenu = $('div.inner-menu', this).detach().appendTo('.submenu .inside');
+               var id = $(this).attr('id');
+               $('.inner-menu.main_page').fadeIn();
+
+               $('a', this).hover(function () {
+                   $('.nav-inner ._nav-item').removeClass('active');
+                   $(this).parent().addClass('active');
+                   $('.submenu .inner-menu').hide();
+                   $('div.inner-menu.' + id).show();
+               });
+           });
+
+       })
+       wow = new WOW(
+           {
+               animateClass: 'animated',
+               mobile: false,
+               offset: 50
+           }
+       );
+       wow.init();
+   </script>
     
 </body>
 </html>

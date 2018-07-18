@@ -7,6 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
         <title></title>
+        <link href="css/nav.css" rel="stylesheet" />
         <link rel="shortcut icon" href="img/fav-icon.ico" type="image/x-icon" />
         <link href="css/other/bootstrap.min.css" rel="stylesheet">
       
@@ -18,6 +19,7 @@
         <link href="css/other/style.css" rel="stylesheet">
 </head>
 <style type="text/css">
+
 .header-menu  .panel-body ul > li > a
    {
     font-size: 17px !important;
@@ -171,5 +173,25 @@ footer h2
       /*text-decoration: underline !important;*/
   }
 
-  /******************/
+.navigation .nav-inner > ul li a 
+{
+    color: #002 !important;
+}
+.navigation .submenu a, .navigation .submenu h1, .navigation .submenu h2, .navigation .submenu h3, .navigation .submenu p
+{
+  color: #002 !important;
+}
+.innerUL
+{
+  text-align: left !important;
+}
+.innerUL li
+{
+  font-size: 18px !important;
+}
+.navigation .nav-inner > ul > li a .menu__item-name
+{
+  font-weight: normal !important;
+  
+}
 </style>

@@ -1,4 +1,4 @@
-<nav nav-reveal-menu class="header-menu">
+<nav nav-reveal-menu style="background:#fff;">
        <!-- line -->
        <!--<hr class="line">-->
 
@@ -93,252 +93,175 @@
          </ul>
          </li>
        </ul>-->
-      <div class="container inner-menu">
-        <div class="row">
-          <div class="col-md-4 col-sm-6 col-xs-12">
-            <h3 style="text-align:center;color:#fff;">The Creator and His Messengers<i class="fa fa-chevron-down" style="margin-left:10px;margin-bottom: 10%;"></i></h3>
-            <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingOne">
-      <h4 class="panel-title">
-        <a style="color: #000;background: #fff;height: 30px;line-height: 30px;display: block;text-align: left ;padding-left:5px;margin-top:2%;font-size: 15px !important;" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-          Who Created Us? 
-        </a>
-        <i style="position: relative;top: -25px;right: -266px;" class="fa fa-chevron-down"></i>
-      </h4>
-    </div>
-    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-      <div class="panel-body" style="border: 1px #fff solid;">
-        <ul class="animated fadeIn">
-                <li><a href="c1-sub1-logic.php" class="hvr-sweep-to-right">Logical Questions</a></li>
-                <li><a href="c1-sub2-our.php" class="hvr-sweep-to-right">Our Lord And Our God</a></li>
-                <li><a href="c1-sub3-end.php" class="hvr-sweep-to-right">End Notes</a></li>
-              </ul>
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingTwo">
-      <h4 class="panel-title">
-        <a class="collapsed" style="color: #000;background: #fff;height: 30px;line-height: 30px;display: block;text-align: left ;padding-left:5px;margin-top:2%;font-size: 15px !important;"  role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          The Creatures of God
-        </a>
-        <i style="position: relative;top: -25px;right: -266px;" class="fa fa-chevron-down"></i>
-      </h4>
-    </div>
-    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-      <div class="panel-body" style="border: 1px #fff solid;">
-       <ul class="animated fadeIn">
-                <li><a href="c2-sub1-Invisible.php" class="hvr-sweep-to-right">The Invisible Creatures Of God</a></li>
-                <li><a href="c2-sub2-visible.php" class="hvr-sweep-to-right">The Visible Creatures Of God</a></li>
-                <li><a href="c2-sub3-strange.php" class="hvr-sweep-to-right">Some Strange Creatures Of God</a></li>
-                <li><a href="c2-sub4-end.php" class="hvr-sweep-to-right">End Notes</a></li>
-              </ul>
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingThree">
-      <h4 class="panel-title">
-        <a class="collapsed" style="color: #000;background: #fff;height: 30px;line-height: 30px;display: block;text-align: left ;padding-left:5px;margin-top:2%;font-size: 15px !important;"  role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          The Messengers of God
-        </a>
-        <i style="position: relative;top: -25px;right: -266px;" class="fa fa-chevron-down"></i>
-      </h4>
-    </div>
-    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-      <div class="panel-body" style="border: 1px #fff solid;">
-        <ul class="animated fadeIn">
-                <li><a href="c3-sub1-story.php" class="hvr-sweep-to-right">The Story Of Life And Divine Revelations</a></li>
-                <li><a href="c3-sub2-quran.php" class="hvr-sweep-to-right">The Messengers Of God In Quran</a></li>
-              </ul>
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingThree">
-      <h4 class="panel-title">
-        <a class="collapsed" style="color: #000;background: #fff;height: 30px;line-height: 30px;display: block;text-align: left ;padding-left:5px;margin-top:2%;font-size: 15px !important;"  role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree34" aria-expanded="false" aria-controls="collapseThree">
-          Who Brought  Final Message?
-        </a>
-        <i style="position: relative;top: -25px;right: -266px;" class="fa fa-chevron-down"></i>
-      </h4>
-    </div>
-    <div id="collapseThree34" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-      <div class="panel-body" style="border: 1px #fff solid;">
-        <ul class="animated fadeIn">
-                <li><a href="c4-s1-mohamed.php" class="hvr-sweep-to-right">Prophet Muhammed</a></li>
-                <li><a href="c4-s2.php" class="hvr-sweep-to-right">Brief Biography</a></li>
-                <li><a href="c4-s3.php" class="hvr-sweep-to-right">Muhammed And The Unbelievers</a></li>
-                <li><a href="c4-s4.php" class="hvr-sweep-to-right">Muhammed'S Farewell Sermon</a></li>
-              </ul>
-      </div>
-    </div>
-  </div>
-</div>
-          </div>
-          <div class="col-md-4 col-sm-6 col-xs-12">
-            <h3 style="text-align:center;color:#fff;">The Message and the Final Calls<i class="fa fa-chevron-down" style="margin-left:10px;margin-bottom: 10%;"></i></h3>
-            <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingOne">
-      <h4 class="panel-title">
-        <a role="button" style="color: #000;background: #fff;height: 30px;line-height: 30px;display: block;text-align: left ;padding-left:5px;margin-top:2%;font-size: 15px !important;"  data-toggle="collapse" data-parent="#accordion" href="#collapseOne11" aria-expanded="true" aria-controls="collapseOne">
-          What is it About
-        </a>
-        <i style="position: relative;top: -25px;right: -266px;" class="fa fa-chevron-down"></i>
-      </h4>
-    </div>
-    <div id="collapseOne11" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-      <div class="panel-body" style="border: 1px #fff solid;">
-       <ul class="animated fadeIn">
-                <li><a href="c5-s1.php" class="hvr-sweep-to-right">The History Of The Bible</a></li>
-                <li><a href="c5-s2.php" class="hvr-sweep-to-right">The History Of The Quran</a></li>
-                <li><a href="c5-s3.php" class="hvr-sweep-to-right">The DIVINE MESSAGE</a></li>
-                <li><a href="c5-s4.php" class="hvr-sweep-to-right">Verses From The Quran About Quran</a></li>
-              </ul>
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingTwo">
-      <h4 class="panel-title">
-        <a class="collapsed" style="color: #000;background: #fff;height: 30px;line-height: 30px;display: block;text-align: left ;padding-left:5px;margin-top:2%;font-size: 15px !important;"  role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo2" aria-expanded="false" aria-controls="collapseTwo">
-          Calls to the Human Being
-        </a>
-        <i style="position: relative;top: -25px;right: -266px;" class="fa fa-chevron-down"></i>
-      </h4>
-    </div>
-    <div id="collapseTwo2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-      <div class="panel-body" style="border: 1px #fff solid;">
-        <ul class="animated fadeIn">
-                <li><a href="c6-se1.php" class="hvr-sweep-to-right">He Divine Calls To Mankind</a></li>
-                <li><a href="c6-se2.php" class="hvr-sweep-to-right">The MIRACULOUS Creation</a></li>
-                <li><a href="c6-se3.php" class="hvr-sweep-to-right">The Comopnents of The Human Body</a></li>
-                <li><a href="c6-se4.php" class="hvr-sweep-to-right">The Noble Quran</a></li>
-                <li><a href="c6-se5-end.php" class="hvr-sweep-to-right">End Notes</a></li>
-              </ul>
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingThree">
-      <h4 class="panel-title">
-        <a class="collapsed" style="color: #000;background: #fff;height: 30px;line-height: 30px;display: block;text-align: left ;padding-left:5px;margin-top:2%;font-size: 15px !important;"  role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree333" aria-expanded="false" aria-controls="collapseThree">
-          Calls to all People
-        </a>
-        <i style="position: relative;top: -25px;right: -266px;" class="fa fa-chevron-down"></i>
-      </h4>
-    </div>
-    <div id="collapseThree333" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-      <div class="panel-body" style="border: 1px #fff solid;">
-        <ul class="animated fadeIn">
-                <li><a href="c7-sec1.php" class="hvr-sweep-to-right">Divine Calls To All People</a></li>
-                <li><a href="c7-sec2.php" class="hvr-sweep-to-right">A Chapter From The Quran</a></li>
-              </ul>
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingThree">
-      <h4 class="panel-title">
-        <a class="collapsed" style="color: #000;background: #fff;height: 30px;line-height: 30px;display: block;text-align: left ;padding-left:5px;margin-top:2%;font-size: 15px !important;"  role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree334" aria-expanded="false" aria-controls="collapseThree3">
-          The Day of Judgment
-        </a>
-         <i style="position: relative;top: -25px;right: -266px;" class="fa fa-chevron-down"></i>
-      </h4>
-    </div>
-    <div id="collapseThree334" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-      <div class="panel-body" style="border: 1px #fff solid;">
-         <ul class="animated fadeIn">
-                <li><a href="c8-sec1.php" class="hvr-sweep-to-right">Death And Resurrection</a></li>
-                <li><a href="c8-sec2.php" class="hvr-sweep-to-right">The Day Of Judgment in The Quran</a></li>
-              </ul>
-      </div>
-    </div>
-  </div>
-</div>
-          </div>
-          <div class="col-md-4 col-sm-6 col-xs-12">
-            <h3 style="text-align:center;color:#fff;">You !<i class="fa fa-chevron-down" style="margin-left:10px;margin-bottom: 10%;"></i></h3>
-            <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingOne">
-      <h4 class="panel-title">
-        <a role="button" style="color: #000;background: #fff;height: 30px;line-height: 30px;display: block;text-align: left ;padding-left:5px;margin-top:2%;font-size: 15px !important;"  data-toggle="collapse" data-parent="#accordion" href="#collapseOne12" aria-expanded="true" aria-controls="collapseOne">
-          You and God
-        </a>
-        <i style="position: relative;top: -25px;right: -266px;" class="fa fa-chevron-down"></i>
-      </h4>
-    </div>
-    <div id="collapseOne12" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-      <div class="panel-body" style="border: 1px #fff solid;">
-        <ul class="animated fadeIn">
-                <li><a href="c9-sec1.php" class="hvr-sweep-to-right">The Cognitive Content</a></li>
-                <li><a href="c9-sec2.php" class="hvr-sweep-to-right">Self-Pride Versus</a></li>
-              </ul>
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingTwo">
-      <h4 class="panel-title">
-        <a class="collapsed" style="color: #000;background: #fff;height: 30px;line-height: 30px;display: block;text-align: left ;padding-left:5px;margin-top:2%;font-size: 15px !important;"  role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo21" aria-expanded="false" aria-controls="collapseTwo">
-          Do You Talk To God ?
-        </a>
-        <i style="position: relative;top: -25px;right: -266px;" class="fa fa-chevron-down"></i>
-      </h4>
-    </div>
-    <div id="collapseTwo21" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-      <div class="panel-body" style="border: 1px #fff solid;">
-        <ul class="animated fadeIn">
-                <li><a href="c10-sec1.php" class="hvr-sweep-to-right">The Jewels of Reflection</a></li>
-                <li><a href="c10-sec2.php" class="hvr-sweep-to-right">Supplication is Worship</a></li>
-              </ul>
-      </div>
-    </div>
-  </div>
-<div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingTwo">
-      <h4 class="panel-title">
-        <a class="collapsed" style="color: #000;background: #fff;height: 30px;line-height: 30px;display: block;text-align: left ;padding-left:5px;margin-top:2%;font-size: 15px !important;;"  role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo2122" aria-expanded="false" aria-controls="collapseTwo">
-          Appendix
-        </a>
-        <i style="position: relative;top: -25px;right: -266px;" class="fa fa-chevron-down"></i>
-      </h4>
-    </div>
-    <div id="collapseTwo2122" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-      <div class="panel-body" style="border: 1px #fff solid;">
-        <ul class="animated fadeIn">
-                <li><a href="appendix.php" class="hvr-sweep-to-right">Appendix</a></li>
-                
-              </ul>
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingTwo">
-      <h4 class="panel-title">
-        <a class="collapsed" style="color: #000;background: #fff;height: 30px;line-height: 30px;display: block;text-align: left ;padding-left:5px;margin-top:2%;font-size: 15px !important;"  role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo212" aria-expanded="false" aria-controls="collapseTwo">
-          References
-        </a>
-        <i style="position: relative;top: -25px;right: -266px;" class="fa fa-chevron-down"></i>
-      </h4>
-    </div>
-    <div id="collapseTwo212" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-      <div class="panel-body" style="border: 1px #fff solid;">
-        <ul class="animated fadeIn">
-                <li><a href="references.php" class="hvr-sweep-to-right">References</a></li>
-               
-              </ul>
-      </div>
-    </div>
-  </div>
-  
- 
+     
+    <div class="navigation">
+        <button id="btn-nav-close" class="btn--nav-close" aria-label="Close nav"><i class="fas fa-times"></i></button>
+        <div class="scroll_cont">
+            <div class="scroll">
+                <div class="nav-inner">
+                    <ul>
+                        <li class="_nav-item " id="main_page">
+                            <a href="http://theprophetofislam.org/en" style="color:#002;"> <span class="menu__item-name" style="width: 127%;font-size: 19px;">The Creator and His Messengers</span></a>
 
-          </div>
+                        </li>
+                        <li class="_nav-item animate showFromLeft delay01" id="testimonials" style="text-align: left !important;margin-left: 30px !important;">
+                            <a href="http://theprophetofislam.org/en/testimonials" style="color:#002 !important;"> <span class="menu__item-name">- Who Created Us?</span></a>
+
+
+                        </li>
+                        <li class="_nav-item animate showFromLeft delay02 " id="HisCharacter" style="text-align: left !important;margin-left: 30px !important;">
+                            <a href="http://theprophetofislam.org/en/character" style="color:#002 !important;"> <span class="menu__item-name">- The Creatures of God</span></a>
+
+                        </li>
+
+                        <li class="_nav-item animate showFromLeft delay03" id="biography" style="text-align: left !important;margin-left: 30px !important;">
+                            <a href="http://theprophetofislam.org/en/biography" style="color:#002 !important;"><span class="menu__item-name">- The Messengers of God</span></a>
+
+                        </li>
+                        <li class="_nav-item animate showFromLeft delay04" id="prophecy" style="text-align: left !important;margin-left: 30px !important;">
+                            <a href="javascript:void(0)" style="color:#002 !important;"><span class="menu__item-name" style="width:120%;">- Who Brought the Final Message?</span></a>
+
+                        </li>
+                        <li class="_nav-item delay05" id="civilization">
+                            <a href="javascript:void(0)" style="color:#002 !important;"><span class="menu__item-name" style="width: 127%;font-size: 19px;">The Message and the Final Calls</span></a>
+
+                        </li>
+                        <li class="_nav-item animate showFromLeft delay06" id="women" style="text-align: left !important;margin-left: 30px !important;">
+                            <a href="javascript:void(0)" style="color:#002 !important;"><span class="menu__item-name">- What is it About</span></a>
+
+                        </li>
+                        <li class="_nav-item animate showFromLeft delay07" id="HumanRights" style="text-align: left !important;margin-left: 30px !important;">
+                            <a href="http://theprophetofislam.org/en/freedom-and-equality-of-mankind" style="color:#002 !important;"><span class="menu__item-name">- Calls to the Human Being</span></a>
+
+                        </li>
+                        <li class="_nav-item animate showFromLeft delay08" id="environment" style="text-align: left !important;margin-left: 30px !important;">
+                            <a href="http://theprophetofislam.org/en/environment" style="color:#002 !important;"><span class="menu__item-name">- Calls to all People</span></a>
+
+                        </li>
+                        <li class="_nav-item animate showFromLeft delay09" id="miracles" style="text-align: left !important;margin-left: 30px !important;">
+                            <a href="javascript:void(0)" style="color:#002 !important;"><span class="menu__item-name">- The Day of Judgment</span></a>
+
+                        </li>
+                        <li class="_nav-item" id="HisSayings" style="text-align:left;">
+                            <a href="http://theprophetofislam.org/en/his-sayings" style="color:#002 !important;"><span class="menu__item-name" style="width: 127%;font-size: 19px;">You !</span></a>
+
+                        </li>
+                        <li class="_nav-item animate showFromLeft delay011" id="epilogue" style="text-align: left !important;margin-left: 30px !important;">
+                            <a href="http://theprophetofislam.org/en/epilogue" style="color:#002 !important;"><span class="menu__item-name">- You and God</span></a>
+
+                        </li>
+                        <li class="_nav-item animate showFromLeft delay012" id="arts" style="text-align: left !important;margin-left: 30px !important;">
+                            <a href="http://theprophetofislam.org/en/islamic-arts" style="color:#002 !important;"><span class="menu__item-name">- Do You Talk To God ?</span></a>
+
+                        </li>
+
+                        <li class="_nav-item animate showFromLeft delay012" id="latest_news" style="text-align: left !important;margin-left: 30px !important;">
+                            <a href="http://theprophetofislam.org/en/news" style="color:#002 !important;"><span class="menu__item-name">- Appendix</span></a>
+
+                        </li>
+
+                        <li class="_nav-item animate showFromLeft delay012" id="audios_news" style="text-align: left !important;margin-left: 30px !important;">
+                            <a href="http://theprophetofislam.org/en/audios" style="color:#002 !important;"><span class="menu__item-name">- References</span></a>
+
+                        </li>
+                    </ul>
+                </div>
+                <div class="submenu">
+                    <div class="inside">
+                        <div class="inner-menu testimonials" style="display: none;">
+                            <h2>Who Created Us?</h2>
+                            <ul class="animated fadeInUp innerUL">
+                              <li><a href="c1-sub1-logic.php">Logical Questions</a></li>
+                              <li><a href="c1-sub2-our.php">Our Lord And Our God</a></li>
+                              <li><a href="c1-sub3-end.php">End Notes</a></li>
+                            </ul>
+                        </div>
+                        <div class="inner-menu HisCharacter " style="display: none;">
+                            <h2>The Creatures of God</h2>
+                            <ul class="animated fadeInUp innerUL">
+                              <li><a href="c2-sub1-Invisible.php">The Invisible Creatures Of God</a></li>
+                              <li><a href="c2-sub2-visible.php">The Visible Creatures Of God</a></li>
+                              <li><a href="c2-sub3-strange.php">Some Strange Creatures Of God</a></li>
+                              <li><a href="c2-sub4-end.php">End Notes</a></li>
+                            </ul>
+                        </div>
+                        <div class="inner-menu biography" style="display: none;">
+                            <h2>The Messengers of God</h2>
+                           <ul class="animated fadeInUp innerUL">
+                              <li><a href="c3-sub1-story.php">The Story Of Life And Divine Revelations</a></li>
+                              <li><a href="c3-sub2-quran.php">The Messengers Of God In Quran</a></li>
+                            </ul>
+                        </div>
+                        <div class="inner-menu prophecy" style="display: none;">
+                            <h2>Who Brought the Final Message?</h2>
+                            <ul class="animated fadeInUp innerUL">
+                              <li><a href="c4-s1-mohamed.php">Prophet Muhammed</a></li>
+                              <li><a href="c4-s2.php">Brief Biography</a></li>
+                              <li><a href="c4-s3.php">Muhammed And The Unbelievers</a></li>
+                              <li><a href="c4-s4.php">Muhammed'S Farewell Sermon</a></li>
+                            </ul>
+                        </div>
+                        <div class="inner-menu women" style="display: none;">
+                            <h2>What is it About</h2>
+                            <ul class="animated fadeInUp innerUL">
+                              <li><a href="c5-s1.php">The History Of The Bible</a></li>
+                              <li><a href="c5-s2.php">The History Of The Quran</a></li>
+                              <li><a href="c5-s3.php">The DIVINE MESSAGE</a></li>
+                              <li><a href="c5-s4.php">Verses From The Quran About The Quran</a></li>
+                            </ul>
+                        </div>
+                        <div class="inner-menu HumanRights" style="display: none;">
+                            <h2>Calls to the Human Being</h2>
+                            <ul class="animated fadeInUp innerUL">
+                              <li><a href="c6-se1.php">He Divine Calls To Mankind</a></li>
+                              <li><a href="c6-se2.php">The MIRACULOUS Creation</a></li>
+                              <li><a href="c6-se3.php">The Comopnents of The Human Body</a></li>
+                              <li><a href="c6-se4.php">The Noble Quran</a></li>
+                              <li><a href="c6-se5-end.php">End Notes</a></li>
+                            </ul>
+                        </div>
+                        <div class="inner-menu environment" style="display: none;">
+                            <h2>Calls to all People</h2>
+                            <ul class="animated fadeInUp innerUL">
+                              <li><a href="c7-sec1.php">Divine Calls To All People</a></li>
+                              <li><a href="c7-sec2.php">A Chapter From The Quran</a></li>
+                            </ul>
+                        </div>
+                        <div class="inner-menu miracles" style="display: none;">
+                            <h2>The The Day of Judgment</h2>
+                            <ul class="animated fadeInUp innerUL">
+                              <li><a href="c8-sec1.php">Death And Resurrection</a></li>
+                              <li><a href="c8-sec2.php">The Day Of Judgment in The Quran</a></li>
+                            </ul>
+                        </div>
+                        <div class="inner-menu epilogue" style="display: none;">
+                            <h2>You and God</h2>
+                            <ul class="animated fadeInUp innerUL">
+                            <li><a href="c9-sec1.php">The Cognitive Content</a></li>
+                            <li><a href="c9-sec2.php">Self-Pride Versus</a></li>
+                            </ul>
+                        </div>
+                        <div class="inner-menu arts" style="display: none;">
+                            <h2>Do You Talk To God ?</h2>
+                            <ul class="animated fadeInUp innerUL">
+                              <li><a href="c10-sec1.php">The Jewels of Reflection</a></li>
+                              <li><a href="c10-sec2.php">Supplication is Worship</a></li>
+                            </ul>
+                        </div>
+                        <div class="inner-menu latest_news" style="display: none;">
+                            <h2>Appendix</h2>
+                            <a href="appendix.php">Appendix</a>
+                        </div>
+                        <div class="inner-menu audios_news" style="display: none;">
+                            <h2>References</h2>
+                            <a href="references.php">References</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
-</nav>
+
+       
+    </div>
+    </nav>
 <a href="#" id="nav-trigger" nav-reveal-button></a> 
