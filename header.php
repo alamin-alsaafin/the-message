@@ -20,6 +20,19 @@
         <link href="css/other/style.css" rel="stylesheet">
 </head>
 <style type="text/css">
+
+.navigation .submenu:before
+{
+  background-color: #10446e !important;
+}
+.nav
+{
+  background-color: #002 !important;
+}
+.logo
+{
+  z-index: 1 !important;
+}
 .qura {
     color: #000022;
     font-weight: bold;
@@ -41,7 +54,7 @@
    }
 
    /* Sweep To Right */
-.hvr-sweep-to-right {
+.hvr-to-righ {
   display: inline-block;
   vertical-align: middle;
   -webkit-transform: perspective(1px) translateZ(0);
@@ -53,7 +66,7 @@
   -webkit-transition-duration: 0.3s;
   transition-duration: 0.3s;
 }
-.hvr-sweep-to-right:before {
+.hvr-to-righ:before {
   content: "";
   position: absolute;
   z-index: -1;
@@ -61,7 +74,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background: #fff;
+  background: #10446e;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
   -webkit-transform-origin: 0 50%;
@@ -73,10 +86,10 @@
   -webkit-transition-timing-function: ease-out;
   transition-timing-function: ease-out;
 }
-.hvr-sweep-to-right:hover, .hvr-sweep-to-right:focus, .hvr-sweep-to-right:active {
+.hvr-to-righ:hover, .hvr-to-righ:focus, .hvr-to-righ:active {
   color: white;
 }
-.hvr-sweep-to-right:hover:before, .hvr-sweep-to-right:focus:before, .hvr-sweep-to-right:active:before {
+.hvr-to-righ:hover:before, .hvr-to-righ:focus:before, .hvr-to-righ:active:before {
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
 }
@@ -188,7 +201,8 @@ footer h2
 }
 .navigation .submenu a, .navigation .submenu h1, .navigation .submenu h2, .navigation .submenu h3, .navigation .submenu p
 {
-  color: #002 !important;
+  color: #fff !important;
+  font-weight: bold !important;
 }
 .innerUL
 {
@@ -196,7 +210,7 @@ footer h2
 }
 .innerUL li
 {
-  font-size: 18px !important;
+  font-size: 16px !important;
 }
 .navigation .nav-inner > ul > li a .menu__item-name
 {
@@ -243,5 +257,28 @@ footer
 .header-sub h1,footer h2
 {
   color: #fff !important;
+}
+.conent-img-right:before
+{
+      background: #2c2c38 !important;
+}
+.img-two-header {
+    position: absolute;
+    width: 107%;
+    z-index: 0 !important;
+    height: auto;
+    left: auto !important;
+    right: -3%;
+    float: right;
+    top: auto !important;
+    bottom: -16% !important;
+}
+.logo:hover
+{
+  color:#fff !important;
+}
+.layer
+{
+      height: 109vh !important;
 }
 </style>
