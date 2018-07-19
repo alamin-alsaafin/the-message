@@ -695,7 +695,7 @@ li.haschaid ul li a:hover {
 /* footer */
 footer{
     padding:50px 0;
-    background: url('../img/naqsh.png') #c2941c;
+    background: url(../../img/naqsh.png) #80808c !important;
     background-repeat:repeat ;
     text-align: center;
 }

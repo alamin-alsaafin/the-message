@@ -225,11 +225,7 @@ h1, h2, h3, h4, h5, h6
 {
   color:  #12123B !important;
 }
-footer
-{
-  background-image: none !important;
-  background-color: #2c2c38  !important; 
-}
+
 .logo,#nav-trigger,.search-btnbtn
 ,.conent-img-left:before,.img-box-top-sec-4::before
 
@@ -271,7 +267,7 @@ footer
     right: -3%;
     float: right;
     top: auto !important;
-    bottom: -16% !important;
+    bottom: -12% !important;
 }
 .logo:hover
 {
