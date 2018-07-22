@@ -20,10 +20,25 @@
         <link href="css/other/style.css" rel="stylesheet">
 </head>
 <style type="text/css">
-
+.header-key
+{
+      height: 100vh;
+}
+.search-btnbtn
+{
+    position: fixed !important;
+    top: 20px !important;
+    right: 65px !important;
+    z-index: 1 !important;
+  }
+  .search-btnbtn:hover
+  ,.search-btnbtn:focus
+  {
+    outline: none;
+  }
 .navigation .submenu:before
 {
-  background-color: #10446e !important;
+  display: none !important;
 }
 .nav
 {
@@ -33,6 +48,7 @@
 {
   z-index: 1 !important;
 }
+
 .qura {
     color: #000022;
     font-weight: bold;
@@ -112,7 +128,7 @@
 }
 footer h2
 {
-  font-size: 23px !important;
+  font-size: 19px !important;
 }
 .search-input
 {
@@ -164,10 +180,23 @@ footer h2
     }
   }
   @media (max-width: 767px)
+
   {
+    .logo img
+    {
+      margin-left: -31px !important
+    }
     .search-btnbtn {
     top: 10% !important;
     right: 5.4% !important;
+    }
+    #nav-trigger {
+    top: 144px !important;
+    right: 5px !important;
+    }
+    .search-btnbtn {
+    top: 188px!important;
+    right: 5px !important;
     }
     .search-input {
     width: 90% !important;
@@ -199,7 +228,7 @@ footer h2
 {
     color: #002 !important;
 }
-.navigation .submenu a, .navigation .submenu h1, .navigation .submenu h2, .navigation .submenu h3, .navigation .submenu p
+.navigation .submenu h1, .navigation .submenu h2, .navigation .submenu h3, .navigation .submenu p
 {
   color: #fff !important;
   font-weight: bold !important;
@@ -275,6 +304,127 @@ h1, h2, h3, h4, h5, h6
 }
 .layer
 {
-      height: 109vh !important;
+      height: auto !important;
+}
+.three
+{
+  text-shadow: 0 0 1px #fff !important;
+}
+.MESAAGES
+{
+  text-shadow: 0 0 1px #1a2d4e !important;
+}
+.hvr-sweep-to-right {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  position: relative;
+  -webkit-transition-property: color;
+  transition-property: color;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+}
+
+.menu-li-hvr:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #fff;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: 0 50%;
+  transform-origin: 0 50%;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.menu-li-hvr:hover, .menu-li-hvr:focus, .menu-li-hvr:active {
+  color: #002 !important;
+}
+.menu-li-hvr:hover:before, .menu-li-hvr:focus:before, .menu-li-hvr:active:before {
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+/* Shutter Out Horizontal */
+.inner-menuLi:hover
+{
+  color: #002 !important;
+}
+.inner-menuLi {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  position: relative;
+  background: #002;
+  -webkit-transition-property: color;
+  transition-property: color;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+}
+.inner-menuLi:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #fff;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: 50%;
+  transform-origin: 50%;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.inner-menuLi:hover, .inner-menuLi:focus, .inner-menuLi:active {
+  color: #002 !important;
+}
+.inner-menuLi:hover:before, .inner-menuLi:focus:before, .inner-menuLi:active:before {
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+a,p,h1,h2,h3,h4,h5,h6,span,div {
+  -webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+  -ms-user-select: none;      /* IE 10+ */
+  user-select: none;          /* Likely future */       
+}
+a:hover,button:hover,input:hover
+,a:focus,button:focus,input:focus
+{
+  outline: none !important;
+  border:none !important;
+  box-shadow: none !important;
+}
+.moreBTN
+{
+  transition: 0.2s;
+}
+.moreBTN:hover
+{
+    
+    box-shadow: 0 0 4px #888 !important;
+}
+.line-x-right,
+.text-center-custome::before
+,.text-center-custome::after
+{
+  background: #002 !important;
 }
 </style>

@@ -12,9 +12,7 @@ include 'modal-search.php';
         ?>
         <div class="top"></div>
             <a href="index.php" class="logo" style="display:block;    z-index: 99999999;">
-                <span>THREE</span>
-                <span>MESSAGES</span>
-                <span>FROM GOD TO YOU</span>
+                <img src="img/logo.png" class="img-responsive">
             </a>
         <section class="" >
             <!-- meun for sub page -->
@@ -78,11 +76,11 @@ include 'modal-search.php';
 
         <div class="conetent-slide">
         <div class="box-slide1">
-            <div class="one-s" data-aos="fade-right" data-aos-duration="600">THREE</div>
-            <div class="two-s" data-aos="fade-right" data-aos-duration="800">MESSAGES</div>
-            <div class="three-s" data-aos="fade-right" data-aos-duration="1000"><span class="bak-fff">FROM</span> GOD <span  class="bak-fff">To</span> YOU</div>
+            <div class="one-s" data-aos="fade-right" data-aos-duration="600" style="text-shadow: 0 0 1px #fff !important;" class="three">THREE</div>
+            <div class="two-s" data-aos="fade-right" data-aos-duration="800" style="text-shadow: 0 0 1px #1a2d4e !important;" class="MESAAGES">MESSAGES</div>
+            <div class="three-s" data-aos="fade-right" data-aos-duration="1000" style="    text-shadow: 0 0 1px #002;"><span class="bak-fff">FROM</span> GOD <span  class="bak-fff">To</span> YOU</div>
             <p data-aos="fade-right" data-aos-duration="1200">The Torah, the Bible and the Quran</p>
-            <div class="box-btn" data-aos="fade-right" data-aos-duration="1400"><a href="c1-sub1-logic.php" class="btn btn-info">MORE</a></div>
+            <div class="box-btn" data-aos="fade-right" data-aos-duration="1400"><a href="c1-sub1-logic.php" class="btn btn-info moreBTN">MORE</a></div>
         </div>
     </div>
     </div>
@@ -91,7 +89,7 @@ include 'modal-search.php';
 <!-- end slider --> 
 
 <section class="section2 padding-y-50px">
-        <div class="title-section" data-aos="fade-up" data-aos-duration="1000" >
+        <div class="title-section" data-aos="fade" data-aos-duration="1000" >
                 <h1 class="text-center"  >The Creator <span>&</span> His Messengers </h1>
         </div>
 <!-- start item 1 -->
@@ -112,7 +110,7 @@ include 'modal-search.php';
                                     whole universe. This is a logical answer that can be further
                                     explained in the following pages</p>
                                 <div class="btn-news" data-aos="fade-right" data-aos-duration="1100">
-                                    <a href="c1-sub1-logic.php" class="btn btn-info">VIEW MORE</a>
+                                    <a href="c1-sub1-logic.php" class="btn btn-info moreBTN">VIEW MORE</a>
                                 </div>
                             </div>
                         </div>
@@ -138,7 +136,7 @@ include 'modal-search.php';
                                     to us and some are not. Both the Bible and Quran confirm
                                     this fact</p>
                             <div class="btn-news" data-aos="fade-left" data-aos-duration="1100">
-                                <a href="c2-sub1-Invisible.php" class="btn btn-info">VIEW MORE</a>
+                                <a href="c2-sub1-Invisible.php" class="btn btn-info moreBTN">VIEW MORE</a>
                             </div>
                         </div>
                        
@@ -166,7 +164,7 @@ include 'modal-search.php';
                                 whole universe. This is a logical answer that can be further
                                 explained in the following pages</p>
                             <div class="btn-news" data-aos="fade-right" data-aos-duration="1100">
-                                <a href="c3-sub1-story.php" class="btn btn-info">VIEW MORE</a>
+                                <a href="c3-sub1-story.php" class="btn btn-info moreBTN">VIEW MORE</a>
                             </div>
                         </div>
                     </div>
@@ -192,7 +190,7 @@ include 'modal-search.php';
                                 to us and some are not. Both the Bible and Quran confirm
                                 this fact</p>
                         <div class="btn-news" data-aos="fade-left" data-aos-duration="1100">
-                            <a href="http://localhost/the-message-book-php/c4-s1-mohamed.php" class="btn btn-info">VIEW MORE</a>
+                            <a href="http://localhost/the-message-book-php/c4-s1-mohamed.php" class="btn btn-info moreBTN">VIEW MORE</a>
                         </div>
                     </div>
                    
@@ -252,7 +250,7 @@ include 'modal-search.php';
                             his departure and return to his Lord. </p>
                 </div>
                 <div class="btn-sub-sec4" data-aos="fade-up" data-aos-duration="1000">
-                    <a href="c5-s1.php" class="btn btn-info">READ MORE</a></div>
+                    <a href="c5-s1.php" class="btn btn-info moreBTN">READ MORE</a></div>
             </div>
             <!-- item 1 end -->
             <!-- item 1 -->
@@ -268,7 +266,7 @@ include 'modal-search.php';
                                 lowing is a selection of these universal calls... </p>
                     </div>
                     <div class="btn-sub-sec4 " data-aos="fade-up" data-aos-duration="1100">
-                        <a href="c6-se1.php" class="btn btn-info">READ MORE</a></div>
+                        <a href="c6-se1.php" class="btn btn-info moreBTN">READ MORE</a></div>
                 </div>
                 <!-- item 1 end -->
                 <!-- item 1 -->
@@ -285,7 +283,7 @@ include 'modal-search.php';
                                 of death. </p>
                     </div>
                     <div class="btn-sub-sec4" data-aos="fade-up" data-aos-duration="1100">
-                        <a href="c7-sec1.php" class="btn btn-info">READ MORE</a></div>
+                        <a href="c7-sec1.php" class="btn btn-info moreBTN">READ MORE</a></div>
                 </div>
                 <!-- item 1 end -->
         </div>
@@ -301,7 +299,7 @@ include 'modal-search.php';
                             the Lord of people to all people regardless of their race or
                             faith. The fol
                             lowing is a selection of these universal calls... </p>
-                    <div class="link-end"><a href="c9-sec1.php" class="btn btn-info btn-info-outline" data-aos="fade-right" data-aos-duration="1100">READ MORE</a></div>
+                    <div class="link-end"><a href="c9-sec1.php" class="btn btn-info btn-info-outline moreBTN" data-aos="fade-right" data-aos-duration="1100" style="border:none">READ MORE</a></div>
                 </div>
             </div>
             <div class="col-md-3 img-right no-padding" style="background-image:url('img/sub/94.jpg') ">
@@ -315,7 +313,7 @@ include 'modal-search.php';
                                 accepting such an important "divine message" because it
                                 is related to your life, death and what would happen to you
                                 after death. It is not like any other message. </p>
-                        <div class="link-end" data-aos="fade-left" data-aos-duration="1100"><a href="c10-sec1.php" class="btn btn-info btn-info-outline">READ MORE</a></div>
+                        <div class="link-end" data-aos="fade-left" data-aos-duration="1100"><a href="c10-sec1.php" class="btn btn-info btn-info-outline moreBTN" style="border:none;">READ MORE</a></div>
                     </div>
                 </div>
                 <div class="col-md-3 img-right no-padding" style="background-image:url(img/sub/102.jpg) ">
